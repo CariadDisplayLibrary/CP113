@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: CP113.h
-Description: CP113 (VGA Code Page 113) font for DisplayCore
+Description: CP113 (VGA Code Page 113)
